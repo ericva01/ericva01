@@ -5,8 +5,19 @@
 <br />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://profilo.vercel.app/api/svg/premium-hero?theme=dark&name=Eric+Va&titles=DevOps%2CFrontend+Engineer%2CUI%2FUX+Enthusiast%2COpen+Source+Maintainer&location=Cambodia&education=ISTAD%2C+Setec&focus=Software&portfolio=404&email=ericva014%40gmail.com&skills=DevOps%2CReact%2CTypeScript%2CTailwindCSS%2CFramer+Motion&accent1=328505&accent2=cf6a17&accent3=0fb00c&style=gradient&font=developer-mono">
-  <img src="https://profilo.vercel.app/api/svg/premium-hero?theme=light&name=Eric+Va&titles=DevOps%2CFrontend+Engineer%2CUI%2FUX+Enthusiast%2COpen+Source+Maintainer&location=Cambodia&education=ISTAD%2C+Setec&focus=Software&portfolio=404&email=ericva014%40gmail.com&skills=DevOps%2CReact%2CTypeScript%2CTailwindCSS%2CFramer+Motion&accent1=328505&accent2=cf6a17&accent3=0fb00c&style=gradient&font=developer-mono" alt="Eric Va GitHub Profile Hero" width="100%">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://profilo.vercel.app/api/svg/premium-hero?theme=dark&amp;name=Eric%20Va&amp;titles=DevOps%2CFrontend%20Engineer%2CUI%2FUX%20Enthusiast%2COpen%20Source%20Maintainer&amp;location=Cambodia&amp;education=ISTAD%2C%20SETEC&amp;focus=Software%20Development&amp;portfolio=404&amp;email=ericva014%40gmail.com&amp;skills=DevOps%2CReact%2CTypeScript%2CTailwindCSS%2CFramer%20Motion&amp;accent1=328505&amp;accent2=cf6a17&amp;accent3=0fb00c&amp;style=gradient&amp;font=developer-mono"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://profilo.vercel.app/api/svg/premium-hero?theme=light&amp;name=Eric%20Va&amp;titles=DevOps%2CFrontend%20Engineer%2CUI%2FUX%20Enthusiast%2COpen%20Source%20Maintainer&amp;location=Cambodia&amp;education=ISTAD%2C%20SETEC&amp;focus=Software%20Development&amp;portfolio=404&amp;email=ericva014%40gmail.com&amp;skills=DevOps%2CReact%2CTypeScript%2CTailwindCSS%2CFramer%20Motion&amp;accent1=328505&amp;accent2=cf6a17&amp;accent3=0fb00c&amp;style=gradient&amp;font=developer-mono"
+  />
+  <img
+    src="https://profilo.vercel.app/api/svg/premium-hero?theme=light&amp;name=Eric%20Va&amp;titles=DevOps%2CFrontend%20Engineer%2CUI%2FUX%20Enthusiast%2COpen%20Source%20Maintainer&amp;location=Cambodia&amp;education=ISTAD%2C%20SETEC&amp;focus=Software%20Development&amp;portfolio=404&amp;email=ericva014%40gmail.com&amp;skills=DevOps%2CReact%2CTypeScript%2CTailwindCSS%2CFramer%20Motion&amp;accent1=328505&amp;accent2=cf6a17&amp;accent3=0fb00c&amp;style=gradient&amp;font=developer-mono"
+    alt="Eric Va — DevOps and Frontend Engineer"
+    width="100%"
+  />
 </picture>
 <br />
 
